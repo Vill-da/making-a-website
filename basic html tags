@@ -1,0 +1,212 @@
+1. Creating HTML Documents
+
+All HTML documents must start with a type declaration: <!DOCTYPE html>.
+
+The HTML document itself begins with <html> and ends with </html>.
+
+The visible part of the HTML document is between <body> and </body>.
+
+Example
+
+<!DOCTYPE html>
+<html>
+
+<body>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+</body>
+
+</html>
+
+============================================
+
+2. HTML Headings
+
+Description: Defines HTML headings
+
+HTML headings are defined with the <h1> - <h6> tags:
+
+Example
+
+<h1>This is a h1 heading</h1>
+<h2>This is a h2 heading</h2>
+<h3>This is a h3 heading</h3>
+           OR YOU CAN USE
+<h class="class1">This is a h1 heading</h1>
+<h class="class2">This is a h1 heading</h1>
+<h class="class3">This is a h1 heading</h1>
+
+============================================
+
+3. HTML Paragraphs
+
+Description: Defines a paragraph
+
+HTML paragraphs are defined with the <p> tag:
+
+Example
+<p>This is the first paragraph.</p>
+<p>This is another paragraph.</p>
+           OR YOU CAN USE
+<p class="class1">This is a paragraph</h1>
+<p class="class2">This is another paragraph</h1>
+<p class="class3">This is and a another paragraph</h1>
+
+============================================
+
+4. HTML Links
+
+Description: Defines a hyperlink
+
+HTML links are defined with the <a> tag:
+
+Example
+
+<a href="https:/github.com">txt</a>
+
+The link's destination is specified in the href attribute.
+
+Attributes are used to provide additional information about HTML elements.
+
+============================================
+
+5.HTML Images
+
+Description: Defines an image
+
+HTML images are defined with the <img> tag.
+
+The source file (src), alternative text (alt), and size (width and height) are provided as attributes:
+
+Example
+
+<img src="picture.png" alt="a picture" width="100" height="100">
+ 
+============================================
+
+6.HTML Tables
+
+Description: Defines a table
+
+Tables are used to arrange data like text, images, links, other tables, etc. into rows and columns of cells
+
+HTML tables are defined with the <table> tag:
+
+Example
+
+<table border="1" cellpadding="5" cellspacing="5">
+<tr>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>4</td>
+</tr>
+</table>
+
+The border, cellpadding and cellspacing are attributes. Attributes are used to provide additional information about HTML elements.
+
+============================================
+
+7.HTML Divisions
+
+Description: Defines a section in a document
+
+Example
+
+<div>This is a DIV container</div>
+
+The Div tag is for creating structure in a web page. You can think of it like a container or a building block. You can put any type of content in a <div></div> tag even other HTML tags
+
+============================================
+
+8. HTML Lists
+
+Description: Creates list of items
+
+HTML lists are defined as folows:
+
+<ul>  Defines an unordered list
+<ol>  Defines an ordered list
+<li>  Defines a list item  
+
+Example  
+
+Unordered list
+
+<ul>
+<li>a</li>
+<li>b</li>
+<li>c</li>
+<li>d</li>
+<li>e</li>
+</ul>
+
+Ordered list
+
+<ol>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+<li>4</li>
+</ol>
+
+============================================
+
+9.HTML Line breaks
+
+Description: Inserts a single line break
+
+HTML line breaks are defined with the <br> tag:
+
+Example
+
+text <br> line break
+
+============================================
+
+10.HTML Bold Text
+
+Description: Defines bold text
+
+HTML Bold Texts are defined with the <b> tag:
+
+Example
+
+<b>Bold Text</b>
+
+Anything that appears within <b>...</b> element, is displayed in bold.
+
+============================================
+
+11.HTML Italic Text
+
+Description: Defines an italic text
+
+HTML italic texts are defined with the <i> tag:
+
+Example
+
+<i>italic text</i>
+
+Anything that appears within <i>...</i> element is displayed in italicized
+
+============================================
+
+12.HTML big text
+
+Description: increase the selected text size
+
+HTML big texts are defined with the <big> tag:
+
+Example:
+
+<big>Big Text</big>
+
+anything that appears within <big>...</big> element is displayed as a big text
+
+============================================
+
+Good-luck coding! hope this helped 😉
+ - Vill
