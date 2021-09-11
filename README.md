@@ -42,4 +42,10 @@ NOTEPAD++ - https://notepad-plus-plus.org/downloads/
 
 # WEBS
 REPLIT: https://replit.com/~
+
+
+
+
+
+
 GLITCH.ME: https://glitch.com/
