@@ -3,6 +3,8 @@
 # A: you can code them here:
 
 APPs:
+
+
 VISUAL STUDIO CODE - https://code.visualstudio.com/download
 
 
@@ -41,6 +43,8 @@ NOTEPAD++ - https://notepad-plus-plus.org/downloads/
 
 
 WEBAPPS:
+
+
 REPLIT -  https://replit.com/~
 
 
