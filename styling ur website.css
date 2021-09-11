@@ -1,0 +1,19 @@
+/* Q: What is css?
+What is CSS? CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.*/
+
+/* Q: Do i need to know css?
+Yes, if you wanna style ur website you can also use with html but i recommend this. */
+
+/* 1st Open your index.html file. Paste the following line in the head (between the <head> and </head> tags): */
+<link href="styles/style.css" rel="stylesheet">
+Example:
+<head>
+   <link href="styles/style.css" rel="stylesheet">
+</head>
+/* 2nd Save your index.html file */
+
+/* Fonts
+First, find the output from Google Fonts(https://fonts.google.com/) that you previously saved from What will your website look like?. Add the <link> element somewhere inside your index.html's head anywhere between the <head> and </head> tags*/
+/* e.g
+
+
