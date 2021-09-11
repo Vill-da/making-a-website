@@ -2,7 +2,7 @@
 
 # A: you can code them here:
 
-# APPS
+APPs:
 VISUAL STUDIO CODE - https://code.visualstudio.com/download
 
 
@@ -40,12 +40,12 @@ NOTEPAD++ - https://notepad-plus-plus.org/downloads/
 
 
 
-# WEBS
-REPLIT: https://replit.com/~
+WEBAPPS:
+REPLIT -  https://replit.com/~
 
 
 
 
 
 
-GLITCH.ME: https://glitch.com/
+GLITCH.ME -  https://glitch.com/
