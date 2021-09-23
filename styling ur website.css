@@ -5,15 +5,27 @@ What is CSS? CSS is the language for describing the presentation of Web pages, i
 Yes, if you wanna style ur website you can also use with html but i recommend this. */
 
 /* 1st Open your index.html file. Paste the following line in the head (between the <head> and </head> tags): */
-<link href="styles/style.css" rel="stylesheet">
+/* <link href="styles/style.css" rel="stylesheet">
 Example:
 <head>
    <link href="styles/style.css" rel="stylesheet">
-</head>
+</head> */
+/* IMPORTANT NOTE: Save the file as style.css or whatever you putted in href=".." and rel="..*/
 /* 2nd Save your index.html file */
 
 /* Fonts
 First, find the output from Google Fonts(https://fonts.google.com/) that you previously saved from What will your website look like?. Add the <link> element somewhere inside your index.html's head anywhere between the <head> and </head> tags*/
 /* e.g
 
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+</head> 
 
+OR you can use this:
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+</style>
+</head>
