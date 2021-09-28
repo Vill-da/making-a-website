@@ -2,58 +2,13 @@
 
 # A: you can code them here:
 
-APPs:
-
-
-VISUAL STUDIO CODE - https://code.visualstudio.com/download
-
-
-
-
-
-
-
-SUBLIME TEXT - https://www.sublimetext.com/
-
-
-
-
-
-
-
-
-KOMODO EDIT - https://www.activestate.com/products/komodo-ide/downloads/edit/
-
-
-
-
-
-
-
-
-
-ATOM - https://atom.io/
-
-
-
-
+APPs:\
+VISUAL STUDIO CODE - https://code.visualstudio.com/download \
+SUBLIME TEXT - https://www.sublimetext.com/ \
+KOMODO EDIT - https://www.activestate.com/products/komodo-ide/downloads/edit/ \
+ATOM - https://atom.io/ \
 NOTEPAD++ - https://notepad-plus-plus.org/downloads/
 
-
-
-
-
-
-
-
-WEBAPPS:
-
-
-REPLIT -  https://replit.com/~
-
-
-
-
-
-
+WEBAPPS: \
+REPLIT -  https://replit.com/~ \
 GLITCH.ME -  https://glitch.com/
